@@ -36,10 +36,10 @@ Mikroserwisy wciąż zyskują na popularności. Tworzenie efektywnego środowisk
 
 ## Agenda
 
-- **17:00** - Przywitanie
-- **17:15** - Prelekcja - **Marcin Grzejszczak**
-- **18:30** - Podsumowanie i rozlosowanie nagród
-- **19:00** - Zakończenie
+- **18:00** - Przywitanie
+- **18:15** - Prelekcja - **Marcin Grzejszczak**
+- **19:30** - Podsumowanie i rozlosowanie nagród
+- **20:00** - Zakończenie
 
 ## Goodies
 
